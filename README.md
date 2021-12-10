@@ -26,3 +26,7 @@ This project require java runtime 8.
 ### Gameplay 
 
 https://user-images.githubusercontent.com/22030038/130352978-e363b0a4-a617-4f90-963e-e1067e5e210b.mp4
+
+
+## License
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/wanyeonkim/Scala-University-Project/blob/main/LICENSE) file for details
