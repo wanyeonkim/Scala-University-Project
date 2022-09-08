@@ -1,6 +1,6 @@
 # Scala-University-Project-
 
-![](https://tokei.rs/b1/github/wanyeonkim/Scala-University-Project)
+
 
 ### WARNING
 Little to no refactoring was done on this project.
